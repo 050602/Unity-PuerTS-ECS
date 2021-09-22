@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+		// "allowSyntheticDefaultImports": true,
+    // "experimentalDecorators": true, 
+    "target": "esnext",
+    "module": "commonjs",
+    "jsx": "react",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "typeRoots": [
+      "../client/Assets/Puerts/Typing",
+      "../client/Assets/Gen/Typing",
+      "./node_modules/@types"
+    ],
+    "outDir": "output",
+    
+  }
+}

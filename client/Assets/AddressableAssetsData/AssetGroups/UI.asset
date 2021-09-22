@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bdc5ea9f4ff373e42bfc184192085c9e
+  m_SerializeEntries:
+  - m_GUID: c11f6292d1ca1e6418b42a3102908342
+    m_Address: Assets/Assets/UI/Loading_atlas0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c1834471a6ea58447b88c7620c08a27c
+    m_Address: Assets/Assets/UI/Loading_fui.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d573eb74d967e94481e2ad27293d31f
+    m_Address: Assets/Assets/UI/MainUI_fui.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5c83dbef74995f248b722baaeaa86ab1
+    m_Address: Assets/Assets/UI/MainUI_atlas0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d8144a515577dc41b3d28c4528597b9
+    m_Address: Assets/Assets/UI/Joy_atlas0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 57b3350f86b156843b7411554cfa62dd
+    m_Address: Assets/Assets/UI/Public_fui.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a20862152c54bf14682d35b048af63c6
+    m_Address: Assets/Assets/UI/Public_atlas0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c4e35a054e3f37141ae803f648edbb9e
+    m_Address: Assets/Assets/UI/Joy_fui.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 54192cbb743adec48b367717e3d459cc
+    m_Address: Assets/Assets/UI/FloatFont_fui.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 400d532311ab7c94ab1d5e0db2ad93fd
+    m_Address: Assets/Assets/UI/FloatFont_atlas0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03019c16dea63574fa7099227095fb88
+    m_Address: Assets/Assets/UI/Public_nqxb17.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92c8584b8383f1d4cbfa4dcd537a6a6a
+    m_Address: Assets/Assets/UI/Public_nqxb18.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 93cb0c27abda4c64c8eb9e3618fc0e77, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7f134d22862379a41b1e896aac692b3d, type: 2}
+    - {fileID: 11400000, guid: d116c47d9e545064abb981ed2c5d8412, type: 2}

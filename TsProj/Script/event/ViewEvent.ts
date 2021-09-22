@@ -1,0 +1,5 @@
+export enum ViewEvent {
+    VIEW_CLOSE = "VIEW_CLOSE",
+    VIEW_OPEN = "VIEW_OPEN",
+    VIEW_PRELOAD_OVER = "VIEW_PRELOAD_OVER",
+}

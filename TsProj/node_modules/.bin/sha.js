@@ -1,0 +1,1 @@
+link ../sha.js/bin.js

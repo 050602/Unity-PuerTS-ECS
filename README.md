@@ -11,6 +11,8 @@ Unity版本2020.3.15
 联系作者 QQ:441829663
 
 
+
+# EN
 A base PuerTS open source libraries, Implementation TypeScript version, ECS Framework
 
 base Addressable , using FairyGUI 

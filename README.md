@@ -8,7 +8,9 @@ Unity版本2020.3.15
 
 具体ECS使用查看TsPro里面的World
 
-联系作者 QQ:441829663
+### QQ Group
+
+* 810074227 [![Unity-PuerTS-ECS框架](https://pub.idqqimg.com/wpa/images/group.png)](https://jq.qq.com/?_wv=1027&k=Awf8ZCbt)
 
 
 

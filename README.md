@@ -25,6 +25,4 @@ in side , usage of a full UI Framework and Addressable
 
 concrete example to ECS , look TsPro the World.ts
 
-call me by QQ : 441829663 
-
 or pull Issues
